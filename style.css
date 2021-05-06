@@ -1,3 +1,16 @@
 body{
     background-color: blue;
 }
+h1{
+font-size: 50px;
+ text-align: center;
+ font-style: oblique;
+ 
+}
+img{
+    width: 125px;
+    float: left;
+    margin: 550px;
+    margin-top: auto;
+    position: absolute;
+}
