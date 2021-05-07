@@ -1,5 +1,5 @@
 body{
-    background-color: blue;
+    background-color:whitesmoke;
 }
 h1{
 font-size: 50px;
@@ -9,8 +9,28 @@ font-size: 50px;
 }
 img{
     width: 125px;
-    float: left;
-    margin: 550px;
-    margin-top: auto;
-    position: absolute;
+    ;
+}
+
+h3{
+    font-style: italic;
+    font-size: 30px;    
+    
+    
+}
+
+ul{
+    font-style: inherit;
+    font-size: 19px;
+
+}
+
+p.one{
+    font-style: inherit;
+    font-size: 19px;
+}
+
+h6{
+    line-height: 250px;
+    font-size: 13px;
 }
