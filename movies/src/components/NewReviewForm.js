@@ -2,8 +2,20 @@ import React from 'react'
 
 function NewReviewForm(props) {
 
+
+
 return (
-    <p>NewReviewForm component</p>
+    <form>
+
+        <input type="text"
+        onChange={}
+        value={}
+
+        />
+
+
+
+    </form>
 )
 
 
