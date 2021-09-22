@@ -1,0 +1,2 @@
+
+319f6db0aff00e11de93319f14d38e931e445c5c	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/pkg-dir/-/pkg-dir-2.0.0.tgz","integrity":"sha1-9tXREJ4Z1j7fQo4L1X4Sd3YVM0s=","time":1626305434100,"size":1848,"metadata":{"url":"https://registry.npmjs.org/pkg-dir/-/pkg-dir-2.0.0.tgz","reqHeaders":{},"resHeaders":{"cache-control":"public, immutable, max-age=31557600","content-type":"application/octet-stream","date":"Wed, 14 Jul 2021 23:30:30 GMT","etag":"\"41d60746db6dca96ce64162392214930\"","last-modified":"Sun, 27 May 2018 12:22:01 GMT","vary":"Accept-Encoding"}}}

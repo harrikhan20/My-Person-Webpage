@@ -1,0 +1,29 @@
+{
+    "name": "@types/w3c-hr-time",
+    "version": "1.0.0",
+    "description": "TypeScript definitions for w3c-hr-time",
+    "license": "MIT",
+    "contributors": [
+        {
+            "name": "Timothy Gu",
+            "url": "https://github.com/TimothyGu",
+            "githubUsername": "TimothyGu"
+        },
+        {
+            "name": "ExE Boss",
+            "url": "https://github.com/ExE-Boss",
+            "githubUsername": "ExE-Boss"
+        }
+    ],
+    "main": "",
+    "types": "index.d.ts",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+        "directory": "types/w3c-hr-time"
+    },
+    "scripts": {},
+    "dependencies": {},
+    "typesPublisherContentHash": "4fa46a8b7eda94c9c6411db5ef3bb437b4742fbab0d10e104bf9bd965725fcf6",
+    "typeScriptVersion": "3.6"
+}

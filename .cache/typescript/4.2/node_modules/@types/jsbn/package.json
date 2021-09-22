@@ -1,0 +1,27 @@
+{
+    "name": "@types/jsbn",
+    "version": "1.2.29",
+    "description": "TypeScript definitions for jsbn",
+    "license": "MIT",
+    "contributors": [
+        {
+            "name": "Eugene Chernyshov",
+            "url": "https://github.com/Evgenus",
+            "githubUsername": "Evgenus"
+        },
+        {
+            "name": "Al Tabayoyon",
+            "url": "https://github.com/al2xed",
+            "githubUsername": "al2xed"
+        }
+    ],
+    "main": "",
+    "repository": {
+        "type": "git",
+        "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+    },
+    "scripts": {},
+    "dependencies": {},
+    "typesPublisherContentHash": "6af56f4e21ce7566c030d805e0c887e9e3c5988f83e860c205f51f0721ae9d5a",
+    "typeScriptVersion": "2.0"
+}

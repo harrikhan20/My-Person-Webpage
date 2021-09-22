@@ -1,0 +1,23 @@
+{
+    "name": "@types/extsprintf",
+    "version": "1.4.1",
+    "description": "TypeScript definitions for extsprintf",
+    "license": "MIT",
+    "contributors": [
+        {
+            "name": "Alex Hankins",
+            "url": "https://github.com/AlexHankins",
+            "githubUsername": "AlexHankins"
+        }
+    ],
+    "main": "",
+    "types": "index",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+    },
+    "scripts": {},
+    "dependencies": {},
+    "typesPublisherContentHash": "f3a85450cf8c5b890e9bd007f08cfa6bc3b99317288ca788dd0578a6f80d8f04",
+    "typeScriptVersion": "2.0"
+}

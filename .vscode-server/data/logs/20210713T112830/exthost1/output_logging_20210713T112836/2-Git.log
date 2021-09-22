@@ -1,0 +1,27 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/harriskhan/phase-1-javascript-project-mode
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git check-ignore -v -z --stdin
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :js/index.js
+> git ls-files --stage -- /home/harriskhan/phase-1-javascript-project-mode/js/index.js
+> git cat-file -s d68c55169c72ad4cfef618f2b88aa2246fa92da9
+> git check-ignore -v -z --stdin
+> git show --textconv :index.html
+> git ls-files --stage -- /home/harriskhan/phase-1-javascript-project-mode/index.html
+> git cat-file -s 99713570506f76086f99d1f2ae0d11662aa366ef
+> git show --textconv :js/index.js
+> git ls-files --stage -- /home/harriskhan/phase-1-javascript-project-mode/js/index.js
+> git cat-file -s d68c55169c72ad4cfef618f2b88aa2246fa92da9
+> git show --textconv :index.html
+> git ls-files --stage -- /home/harriskhan/phase-1-javascript-project-mode/index.html
+> git cat-file -s 99713570506f76086f99d1f2ae0d11662aa366ef
+> git show --textconv :js/index.js
+> git ls-files --stage -- /home/harriskhan/phase-1-javascript-project-mode/js/index.js
+> git cat-file -s d68c55169c72ad4cfef618f2b88aa2246fa92da9

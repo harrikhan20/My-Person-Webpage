@@ -1,0 +1,16 @@
+[2021-07-13 11:28:31.103] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-07-13 11:28:31.103] [remoteagent] [info] Extension host agent started.
+[2021-07-13 11:28:31.505] [remoteagent] [info] [::ffff:172.27.112.1][fc9c7ff9][ExtensionHostConnection] New connection established.
+[2021-07-13 11:28:31.536] [remoteagent] [info] [::ffff:172.27.112.1][e8b6cff7][ManagementConnection] New connection established.
+[2021-07-13 11:28:35.841] [remoteagent] [info] [::ffff:172.27.112.1][fc9c7ff9][ExtensionHostConnection] <1797> Launched Extension Host Process.
+[2021-07-13 12:26:36.761] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-07-13 12:26:59.534] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds

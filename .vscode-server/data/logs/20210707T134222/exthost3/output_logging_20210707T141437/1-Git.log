@@ -1,0 +1,27 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/harriskhan/BuildYourHand-MTG
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/harriskhan/BuildYourHand-MTG/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :js/index.js
+> git ls-files --stage -- /home/harriskhan/BuildYourHand-MTG/js/index.js
+> git cat-file -s 667c8c70d832a1bfeb7ae843e42d6b1c9b2071f2
+> git show --textconv :index.html
+> git ls-files --stage -- /home/harriskhan/BuildYourHand-MTG/index.html
+> git cat-file -s 92f57e3c1ac75764cc601fbc89a68debe0f9a1bb
+> git show --textconv :css/style.css
+> git ls-files --stage -- /home/harriskhan/BuildYourHand-MTG/css/style.css
+> git cat-file -s d54d5b27b1092329024ae62dbe885ea968a5a16d
+> git show --textconv :js/index.js
+> git ls-files --stage -- /home/harriskhan/BuildYourHand-MTG/js/index.js
+> git cat-file -s 667c8c70d832a1bfeb7ae843e42d6b1c9b2071f2
+> git show --textconv :index.html
+> git ls-files --stage -- /home/harriskhan/BuildYourHand-MTG/index.html
+> git cat-file -s 92f57e3c1ac75764cc601fbc89a68debe0f9a1bb
