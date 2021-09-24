@@ -2,22 +2,25 @@ import { useHistory } from 'react-router-dom'
 
 function ReviewSummary({review}) {
 
-    const history = useHistory()
+const history = useHistory()
 
 function handleClick() {
-history.push(`/reviews/${review.id}`)
+    history.push(`/reviews/${review.id}`)
 }
 
-return (
-<div>
+    return (
+        <div>
 
-    <p>{review.content.slice(0,50)}...</p>
+            <p>{review.Movie}</p>
 
-<button onClick={handleClick}>View Review</button>
+            <button onClick={handleClick}>Go to this review</button>
 
-</div>
-)
 
+
+        </div>
+
+
+    )
 }
 
 export default ReviewSummary
