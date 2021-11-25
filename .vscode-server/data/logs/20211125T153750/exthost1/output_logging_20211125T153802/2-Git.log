@@ -1,0 +1,172 @@
+Validating found git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/harriskhan/react-hooks-event-handling
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git check-ignore -v -z --stdin
+Warning: Failed to watch ref '/home/harriskhan/react-hooks-event-handling/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :src/components/MultiButton.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-event-handling/src/components/MultiButton.js
+> git cat-file -s af70aeddf46974a28fb79b183a0b305d9e3301b8
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/harriskhan/react-hooks-event-handling/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :src/components/Tickler.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-event-handling/src/components/Tickler.js
+> git cat-file -s 68a7e3526f831eaacc1831e57e3a6b3967df59d1
+> git show --textconv :src/components/App.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-event-handling/src/components/App.js
+> git cat-file -s 718f4c5d7e15d1d075287360984735916dc7cf6d
+> git show --textconv :src/components/ChangeItUp.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-event-handling/src/components/ChangeItUp.js
+> git cat-file -s 27609ccc55ef1977aedc95caf32e2f77d4266c1c
+> git show --textconv :src/components/MultiButton.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-event-handling/src/components/MultiButton.js
+> git cat-file -s af70aeddf46974a28fb79b183a0b305d9e3301b8
+> git show --textconv :src/components/Tickler.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-event-handling/src/components/Tickler.js
+> git cat-file -s 68a7e3526f831eaacc1831e57e3a6b3967df59d1
+> git show --textconv :src/components/MultiButton.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-event-handling/src/components/MultiButton.js
+> git cat-file -s af70aeddf46974a28fb79b183a0b305d9e3301b8
+> git show --textconv :src/components/Tickler.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-event-handling/src/components/Tickler.js
+> git cat-file -s 68a7e3526f831eaacc1831e57e3a6b3967df59d1
+> git show --textconv :src/components/MultiButton.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-event-handling/src/components/MultiButton.js
+> git cat-file -s af70aeddf46974a28fb79b183a0b305d9e3301b8
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/harriskhan/react-hooks-event-handling/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/harriskhan/react-hooks-event-handling/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/harriskhan/react-hooks-event-handling/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/harriskhan/react-hooks-event-handling/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/harriskhan/react-hooks-event-handling/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/harriskhan/react-hooks-event-handling/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/harriskhan/react-hooks-event-handling/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/harriskhan/react-hooks-event-handling/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/harriskhan/react-hooks-event-handling/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/harriskhan/react-hooks-event-handling/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/harriskhan/react-hooks-event-handling/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/harriskhan/react-hooks-event-handling/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/harriskhan/react-hooks-event-handling/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/harriskhan/react-hooks-event-handling/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :src/components/ChangeItUp.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-event-handling/src/components/ChangeItUp.js
+> git cat-file -s 27609ccc55ef1977aedc95caf32e2f77d4266c1c
+> git show --textconv :src/components/Login.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-event-handling/src/components/Login.js
+> git cat-file -s 79a27f35a51d307bf73df1c663efe2c155bba8ae
+> git show --textconv :src/components/MultiButton.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-event-handling/src/components/MultiButton.js
+> git cat-file -s af70aeddf46974a28fb79b183a0b305d9e3301b8
+> git show --textconv :src/components/Login.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-event-handling/src/components/Login.js
+> git cat-file -s 79a27f35a51d307bf73df1c663efe2c155bba8ae
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/harriskhan/react-hooks-event-handling/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :src/components/ChangeItUp.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-event-handling/src/components/ChangeItUp.js
+> git cat-file -s 27609ccc55ef1977aedc95caf32e2f77d4266c1c
+> git show --textconv :src/components/MultiButton.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-event-handling/src/components/MultiButton.js
+> git cat-file -s af70aeddf46974a28fb79b183a0b305d9e3301b8
+> git show --textconv :src/components/Login.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-event-handling/src/components/Login.js
+> git cat-file -s 79a27f35a51d307bf73df1c663efe2c155bba8ae

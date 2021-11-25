@@ -1,0 +1,54 @@
+0 warn npm npm does not support Node.js v15.14.0
+1 warn npm You should probably upgrade to a newer version of node as we
+2 warn npm can't make any promises that npm will work with this version.
+3 warn npm You can find the latest version at https://nodejs.org/
+4 verbose cli [
+4 verbose cli   '/home/harriskhan/.nvm/versions/node/v15.14.0/bin/node',
+4 verbose cli   '/home/harriskhan/.nvm/versions/node/v15.14.0/bin/npm',
+4 verbose cli   'install',
+4 verbose cli   '--global',
+4 verbose cli   'npm'
+4 verbose cli ]
+5 info using npm@8.1.3
+6 info using node@v15.14.0
+7 timing npm:load:whichnode Completed in 0ms
+8 timing config:load:defaults Completed in 4ms
+9 timing config:load:file:/home/harriskhan/.nvm/versions/node/v15.14.0/lib/node_modules/npm/npmrc Completed in 3ms
+10 timing config:load:builtin Completed in 3ms
+11 timing config:load:cli Completed in 5ms
+12 timing config:load:env Completed in 0ms
+13 timing config:load:project Completed in 1ms
+14 timing config:load:file:/home/harriskhan/.npmrc Completed in 4ms
+15 timing config:load:user Completed in 4ms
+16 timing config:load:file:/home/harriskhan/.nvm/versions/node/v15.14.0/etc/npmrc Completed in 7ms
+17 timing config:load:global Completed in 7ms
+18 timing config:load:validate Completed in 1ms
+19 timing config:load:credentials Completed in 2ms
+20 timing config:load:setEnvs Completed in 1ms
+21 timing config:load Completed in 29ms
+22 timing npm:load:configload Completed in 29ms
+23 timing npm:load:setTitle Completed in 0ms
+24 timing npm:load:setupLog Completed in 1ms
+25 timing config:load:flatten Completed in 7ms
+26 timing npm:load:cleanupLog Completed in 5ms
+27 timing npm:load:configScope Completed in 0ms
+28 timing npm:load:projectScope Completed in 0ms
+29 timing npm:load Completed in 55ms
+30 timing command:install Completed in 306ms
+31 verbose stack Error: Unsupported engine
+31 verbose stack     at Object.checkEngine (/home/harriskhan/.nvm/versions/node/v15.14.0/lib/node_modules/npm/node_modules/npm-install-checks/index.js:15:25)
+31 verbose stack     at Install.exec (/home/harriskhan/.nvm/versions/node/v15.14.0/lib/node_modules/npm/lib/commands/install.js:137:16)
+31 verbose stack     at async module.exports (/home/harriskhan/.nvm/versions/node/v15.14.0/lib/node_modules/npm/lib/cli.js:67:5)
+32 verbose pkgid npm@8.1.3
+33 verbose cwd /home/harriskhan/nvm
+34 verbose Linux 5.10.60.1-microsoft-standard-WSL2
+35 verbose argv "/home/harriskhan/.nvm/versions/node/v15.14.0/bin/node" "/home/harriskhan/.nvm/versions/node/v15.14.0/bin/npm" "install" "--global" "npm"
+36 verbose node v15.14.0
+37 verbose npm  v8.1.3
+38 error code EBADENGINE
+39 error engine Unsupported engine
+40 error engine Not compatible with your version of node/npm: npm@8.1.3
+41 error notsup Not compatible with your version of node/npm: npm@8.1.3
+41 error notsup Required: {"node":"^12.13.0 || ^14.15.0 || >=16"}
+41 error notsup Actual:   {"npm":"8.1.3","node":"v15.14.0"}
+42 verbose exit 1

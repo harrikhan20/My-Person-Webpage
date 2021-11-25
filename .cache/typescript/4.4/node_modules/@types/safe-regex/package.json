@@ -1,0 +1,25 @@
+{
+    "name": "@types/safe-regex",
+    "version": "1.1.3",
+    "description": "TypeScript definitions for safe-regex",
+    "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/safe-regex",
+    "license": "MIT",
+    "contributors": [
+        {
+            "name": "Mohamed Hegazy",
+            "url": "https://github.com/mhegazy",
+            "githubUsername": "mhegazy"
+        }
+    ],
+    "main": "",
+    "types": "index.d.ts",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+        "directory": "types/safe-regex"
+    },
+    "scripts": {},
+    "dependencies": {},
+    "typesPublisherContentHash": "04a0bcddd9e9d67a3dd49892ad83d33bd45d340311213865fbc6cbec6fb4c43a",
+    "typeScriptVersion": "3.6"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "@types/require-from-string",
+    "version": "1.2.1",
+    "description": "TypeScript definitions for require-from-string",
+    "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/require-from-string",
+    "license": "MIT",
+    "contributors": [
+        {
+            "name": "Ika",
+            "url": "https://github.com/ikatyang",
+            "githubUsername": "ikatyang"
+        }
+    ],
+    "main": "",
+    "types": "index.d.ts",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+        "directory": "types/require-from-string"
+    },
+    "scripts": {},
+    "dependencies": {},
+    "typesPublisherContentHash": "843ca775ccfcd2ae85ee8c1d7b3dc73916675bd0976cab563a5de6c6ce5c4533",
+    "typeScriptVersion": "3.6"
+}

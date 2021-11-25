@@ -1,0 +1,260 @@
+Validating found git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/harriskhan/react-hooks-jsx-lab
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/harriskhan/react-hooks-jsx-lab/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :src/components/NavBar.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-jsx-lab/src/components/NavBar.js
+> git cat-file -s 783d53274b43a92eb8db30d3c48b4331b1d2b994
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/harriskhan/react-hooks-jsx-lab/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/harriskhan/react-hooks-jsx-lab/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :src/components/Home.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-jsx-lab/src/components/Home.js
+> git cat-file -s 3e97c76bc456cf7be750646a611ce783af08cd06
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/harriskhan/react-hooks-jsx-lab/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/harriskhan/react-hooks-jsx-lab/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/harriskhan/react-hooks-jsx-lab/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :src/components/About.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-jsx-lab/src/components/About.js
+> git cat-file -s 8cee36dcf5ed8ac61333ca62513f681cece6ab21
+> git show --textconv :src/components/NavBar.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-jsx-lab/src/components/NavBar.js
+> git cat-file -s 783d53274b43a92eb8db30d3c48b4331b1d2b994
+> git show --textconv :src/components/About.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-jsx-lab/src/components/About.js
+> git cat-file -s 8cee36dcf5ed8ac61333ca62513f681cece6ab21
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/harriskhan/react-hooks-jsx-lab/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :src/components/Home.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-jsx-lab/src/components/Home.js
+> git cat-file -s 3e97c76bc456cf7be750646a611ce783af08cd06
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/harriskhan/react-hooks-jsx-lab/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :src/components/NavBar.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-jsx-lab/src/components/NavBar.js
+> git cat-file -s 783d53274b43a92eb8db30d3c48b4331b1d2b994
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/harriskhan/react-hooks-jsx-lab/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :src/components/About.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-jsx-lab/src/components/About.js
+> git cat-file -s 8cee36dcf5ed8ac61333ca62513f681cece6ab21
+> git show --textconv :src/components/Home.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-jsx-lab/src/components/Home.js
+> git cat-file -s 3e97c76bc456cf7be750646a611ce783af08cd06
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/harriskhan/react-hooks-jsx-lab/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/harriskhan/react-hooks-jsx-lab/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/harriskhan/react-hooks-jsx-lab/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/harriskhan/react-hooks-jsx-lab/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/harriskhan/react-hooks-jsx-lab/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :src/components/About.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-jsx-lab/src/components/About.js
+> git cat-file -s 8cee36dcf5ed8ac61333ca62513f681cece6ab21
+> git show --textconv :src/components/Home.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-jsx-lab/src/components/Home.js
+> git cat-file -s 3e97c76bc456cf7be750646a611ce783af08cd06
+> git show --textconv :src/components/NavBar.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-jsx-lab/src/components/NavBar.js
+> git cat-file -s 783d53274b43a92eb8db30d3c48b4331b1d2b994
+> git show --textconv :src/components/Home.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-jsx-lab/src/components/Home.js
+> git cat-file -s 3e97c76bc456cf7be750646a611ce783af08cd06
+> git show --textconv :src/components/NavBar.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-jsx-lab/src/components/NavBar.js
+> git cat-file -s 783d53274b43a92eb8db30d3c48b4331b1d2b994
+> git show --textconv :src/components/Home.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-jsx-lab/src/components/Home.js
+> git cat-file -s 3e97c76bc456cf7be750646a611ce783af08cd06
+> git show --textconv :src/components/About.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-jsx-lab/src/components/About.js
+> git cat-file -s 8cee36dcf5ed8ac61333ca62513f681cece6ab21
+> git show --textconv :src/components/NavBar.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-jsx-lab/src/components/NavBar.js
+> git cat-file -s 783d53274b43a92eb8db30d3c48b4331b1d2b994
+> git show --textconv :src/components/Home.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-jsx-lab/src/components/Home.js
+> git cat-file -s 3e97c76bc456cf7be750646a611ce783af08cd06
+> git show --textconv :src/components/NavBar.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-jsx-lab/src/components/NavBar.js
+> git cat-file -s 783d53274b43a92eb8db30d3c48b4331b1d2b994
+> git show --textconv :src/components/Home.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-jsx-lab/src/components/Home.js
+> git cat-file -s 3e97c76bc456cf7be750646a611ce783af08cd06
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/harriskhan/react-hooks-jsx-lab/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/harriskhan/react-hooks-jsx-lab/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :src/components/About.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-jsx-lab/src/components/About.js
+> git cat-file -s 8cee36dcf5ed8ac61333ca62513f681cece6ab21
+> git show --textconv :src/components/Home.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-jsx-lab/src/components/Home.js
+> git cat-file -s 3e97c76bc456cf7be750646a611ce783af08cd06
+> git show --textconv :src/components/About.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-jsx-lab/src/components/About.js
+> git cat-file -s 8cee36dcf5ed8ac61333ca62513f681cece6ab21
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/harriskhan/react-hooks-jsx-lab/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/harriskhan/react-hooks-jsx-lab/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git ls-files --stage -- /home/harriskhan/react-hooks-jsx-lab/src/components/About.js
+> git cat-file -s b8fe8a9257a487e4762ad9439dc9b73ff3b5864c
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/harriskhan/react-hooks-jsx-lab/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :src/components/About.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/harriskhan/react-hooks-jsx-lab/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/harriskhan/react-hooks-jsx-lab/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/harriskhan/react-hooks-jsx-lab/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/harriskhan/react-hooks-jsx-lab/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/harriskhan/react-hooks-jsx-lab/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/harriskhan/react-hooks-jsx-lab/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/harriskhan/react-hooks-jsx-lab/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template

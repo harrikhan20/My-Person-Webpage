@@ -1,0 +1,87 @@
+Validating found git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/harriskhan/react-hooks-props-basics-lab
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/harriskhan/react-hooks-props-basics-lab/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :src/components/About.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-props-basics-lab/src/components/About.js
+> git cat-file -s 1e4cbf753f581eb8cc08abcd5d6f6e509404dc0c
+> git show --textconv :src/components/Links.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-props-basics-lab/src/components/Links.js
+> git cat-file -s def2bee865935d710811daf9dedc7ca36ebacf9a
+> git show --textconv :src/components/Home.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-props-basics-lab/src/components/Home.js
+> git cat-file -s a4fe5b4d3e8814cd9bf44ccb774260de019b2cfe
+> git show --textconv :src/components/App.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-props-basics-lab/src/components/App.js
+> git cat-file -s cf43f585514163316910d6a7de608f3a7c6b4beb
+> git show --textconv :src/components/About.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-props-basics-lab/src/components/About.js
+> git cat-file -s 1e4cbf753f581eb8cc08abcd5d6f6e509404dc0c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/harriskhan/react-hooks-props-basics-lab/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :src/components/App.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-props-basics-lab/src/components/App.js
+> git cat-file -s cf43f585514163316910d6a7de608f3a7c6b4beb
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/harriskhan/react-hooks-props-basics-lab/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :src/components/About.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-props-basics-lab/src/components/About.js
+> git cat-file -s 1e4cbf753f581eb8cc08abcd5d6f6e509404dc0c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/harriskhan/react-hooks-props-basics-lab/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/harriskhan/react-hooks-props-basics-lab/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/harriskhan/react-hooks-props-basics-lab/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :src/components/App.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-props-basics-lab/src/components/App.js
+> git cat-file -s cf43f585514163316910d6a7de608f3a7c6b4beb
+> git show --textconv :src/components/About.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-props-basics-lab/src/components/About.js
+> git cat-file -s 1e4cbf753f581eb8cc08abcd5d6f6e509404dc0c
+> git show --textconv :src/components/Links.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-props-basics-lab/src/components/Links.js
+> git cat-file -s def2bee865935d710811daf9dedc7ca36ebacf9a
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/harriskhan/react-hooks-props-basics-lab/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git ls-files --stage -- /home/harriskhan/react-hooks-props-basics-lab/src/components/Links.js
+> git cat-file -s def2bee865935d710811daf9dedc7ca36ebacf9a
+> git show --textconv :src/components/Links.js

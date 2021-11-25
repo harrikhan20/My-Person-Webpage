@@ -1,0 +1,16 @@
+Validating found git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/harriskhan/react-hooks-components-basics-lab
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/harriskhan/react-hooks-components-basics-lab/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :src/components/App.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-components-basics-lab/src/components/App.js
+> git cat-file -s fff7b1a98f32ec098a6b30c268f8e0e25c797493
+> git check-ignore -v -z --stdin

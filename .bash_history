@@ -1298,3 +1298,451 @@ code .
 explorer.exe 
 explorer.exe index.html
 learn
+git clone git@github.com:harrikhan20/react-hooks-running-tests.git
+npm install
+code .
+learn test
+npm test
+ls
+cd react-hooks-running-tests
+npm install
+code .
+learn test
+learn
+git clone git@github.com:harrikhan20/react-hooks-components-basics.git
+ls
+git clone git@github.com:harrikhan20/react-hooks-components-basics.git
+ls
+cd react-hooks-components-basics-lab
+code .
+learn test
+explorer.exe index.html
+git clone git@github.com:harrikhan20/react-hooks-components-basics-lab.git
+ls
+cd react-hooks-components-basics-lab
+npm install
+npm start
+git clone git@github.com:harrikhan20/react-hooks-import-export-lab.git
+ls
+cd react-hooks-import-export-lab
+npm install
+code .
+npm start
+git clone git@github.com:harrikhan20/react-hooks-jsx-lab.git
+ls
+cd react-hooks-jsx-lab
+npm install
+code .
+npm start
+ls
+cd react-hooks-jsx-lab
+learn
+npm start
+git clone git@github.com:harrikhan20/react-hooks-props-basics-lab.git
+ls
+cd react-hooks-props-basics-lab
+npm install
+code .
+learn
+npm start
+ls
+cd react-hooks-props-basics-lab
+learn test
+git clone
+git clone git@github.com:harrikhan20/react-hooks-lists-and-keys.git
+ls
+cd react-hooks-lists-and-keys
+npm install
+code .
+learn
+learn test
+git clone git@github.com:harrikhan20/react-hooks-lists-and-keys-lab.git
+ls
+cd react-hooks-lists-and-keys-lab
+npm install
+code .
+learn
+ls
+cd react-hooks-props-basics-lab
+code .
+learn
+learn test
+ls
+cd react-hooks-lists-and-keys-lab\
+learn test
+git clone git@github.com:harrikhan20/react-hooks-children.git
+ls
+cd react-hooks-children
+npm install
+npm start
+ls
+cd react-hooks-children
+learn
+code .
+npm install
+learn
+learn test
+git clone git@github.com:harrikhan20/react-hooks-component-props-mini-project.git
+ls
+cd react-hooks-component-props-mini-project
+npm install
+code .
+git clone git@github.com:harrikhan20/react-hooks-event-handling.git
+ls
+cd react-hooks-event-handling
+npm install
+code .
+npm start
+ls
+cd react-hooks-event-handling
+code 
+code .
+git clone git@github.com:harrikhan20/react-hooks-event-handling-lab.git
+ls
+cd react-hooks-event-handling-lab
+npm install
+code .
+learn
+git clone git@github.com:learn-co-curriculum/json-server-template.git
+ls
+cd json-server-template
+npm install
+code .
+npm start
+npx create-react-app
+npx create-react-app movies
+cd movies
+code .
+npm install react-router-dom
+npm start
+ls
+cd json-server-template
+npm run dev
+ls
+cd json-server-template
+npm run div
+npm run dev
+ls
+cd movies
+npm start
+ls
+cd movies
+npm start
+ls
+cd json-server-template
+npm run dev
+ls
+cd movies
+cd
+cd movies
+git add .
+git commit -m "compiled project"
+clear
+git remote add origin git@github.com:harrikhan20/Movies-Review-phase-2-Project.git
+git branch -M main
+git push -u origin main
+npm start
+ls
+cd movies
+cd
+git clone git@github.com:harrikhan20/json-server-template.git
+npm install
+cd movies
+cd laskjdf
+git remote add origin git@github.com:harrikhan20/Movies-Review-phase-2-Project.git
+git branch -M main
+git push -u origin main
+npm start
+ls
+cd movies
+git pull
+ls
+cd movies
+git pull
+git remote add origin git@github.com:harrikhan20/Movies-Review-phase-2-Project.git
+git branch -M main
+git push -u origin main
+git pull
+git add .
+git commit -m "compiled project"
+git pull
+git remote add origin git@github.com:harrikhan20/Movies-Review-phase-2-Project.git
+git branch -M main
+git push -u origin main
+git remote add origin git@github.com:harrikhan20/Movies-Review-phase-2-Project.git
+git branch -M main
+git push -u origin main
+git add .
+git commit -m "example"
+git push
+git add .
+git commit -a "example"
+git commit -m "example"
+git push .
+git push
+git remote add origin git@github.com:harrikhan20/Movies-Review-phase-2-Project.git
+git branch -M main
+git push -u origin main
+npm start
+cd movies
+npm start
+cd movies
+npm start
+                          cd movies
+code .
+npm start
+cd movies
+npm start
+cd movies
+npm start
+cd movies
+git add .
+git commit -m "final project"
+git push.
+git push .
+git add .
+git commit -m "final Project:
+cd movies
+git add .
+git commit -m "final Project"
+git commit -a "final project"
+git commit -m "final project"
+git remote add origin git@github.com:harrikhan20/Movies-Review-phase-2-Project.git
+git branch -M main
+git push -u origin main
+npm start
+ls
+cd json-server-template
+npm start
+code .
+npm start
+cd movies
+npm start
+cd movies
+code .
+npm start
+clear
+ls
+cd movies
+cd
+cd json-server-template
+code .
+npm start
+clear
+ls
+cd json-server-template
+npm start
+cd movies
+git remote add origin git@github.com:harrikhan20/portfolio-project.git
+git branch -M main
+git push -u origin main
+echo "# portfolio-project" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:harrikhan20/portfolio-project.git
+git push -u origin main
+git add .
+git commit -m "final"
+git push
+npm start
+clear
+node -v
+npm -v
+npm install --global npm
+git clone https://github.com/harrikhan20/react-hooks-npm-lab.git
+ls
+cd react-hooks-npm-lab
+code.
+vscode.
+code .
+cd color-clock
+npm init
+npm test
+npm install date-fns
+npm install serve
+npm start
+cd
+npm install -g npm@8.1.3
+npm install --global npm
+node -v
+npm install --global npm
+c
+clear
+npm -v
+npm install --global npm
+npm install -g npm
+npm -v
+npm install -g npm
+npm -v
+npm install --global npm
+ls
+cd  react-hooks-npm-lab
+cd color-clock
+npm start
+learn
+cd 
+cd  react-hooks-npm-lab
+learn
+npm start
+npm run
+node -v
+npm -v
+npm install --global npm
+node --version
+sudo npm cache clean -f
+node -v
+sudo npm cache clean -f
+git clone https://github.com/nvm-sh/nvm.git
+ls
+cd nvm
+npm install
+npm -v
+npm install --global npm
+gitclone https://github.com/harrikhan20/react-hooks-running-tests.git
+git clone https://github.com/harrikhan20/react-hooks-running-tests.git
+ls
+cd react-hooks-running-tests
+npm install
+code .
+npm test
+learn
+npm test
+clear
+cd
+clear
+git clone https://github.com/harrikhan20/react-hooks-react-app-example.git
+ls
+cd react-hooks-react-app-example
+code .
+node -v
+npm -v
+npm install --global npm
+nvm --version
+nvm install --lts
+npm -v
+npm install --global npm
+npm start
+ls
+cd react-hooks-react-app-example
+npm start
+npx browserslist@latest --update-db
+ls
+cd react-hooks-react-app-example
+npm start
+ls
+cd react-hooks-react-app-example
+learn
+npm test
+learn test
+npm start
+ls
+cd react-hooks-react-app-example
+learn
+git clone https://github.com/harrikhan20/react-hooks-components-basics.git
+ls
+cd react-hooks-components-basics
+npm install
+code .
+learn
+cd
+ls
+cd react-hooks-components-basics-lab
+code .
+learn
+npm start
+ls
+cd react-hooks-import-export-lab
+npm start
+ls
+cd react-hooks-jsx-lab
+npm start
+ls
+git clone https://github.com/harrikhan20/react-hooks-import-export.git
+ls
+cd react-hooks-import-export
+npm install
+code .
+clear
+ls
+cd
+ls
+cd react-hooks-import-export-lab
+code .
+learn test
+learn
+cd
+clear
+ls
+cd react-hooks-jsx-lab
+code .
+learn
+npm test
+ls
+cd react-hooks-props-basics-lab
+learn
+clear
+ls
+cd react-hooks-props-basics-lab
+npm start
+ls
+cd react-hooks-props-basics-lab
+learn
+npm test
+ls
+cd react-hooks-props-basics-lab
+code .
+npm start
+git clon https://github.com/harrikhan20/react-hooks-lists-and-keys.git
+git clone https://github.com/harrikhan20/react-hooks-lists-and-keys.git
+ls
+cd react-hooks-lists-and-keys
+code .
+npm start
+ls
+cd react-hooks-lists-and-keys-lab
+npm start
+ls
+cd  react-hooks-children
+npm test
+npm run
+npm start
+ls
+cd react-hooks-lists-and-keys
+learn test
+npm test
+cd
+clear
+ls
+cd react-hooks-lists-and-keys-lab
+code .
+learn
+npm test
+cd
+clear
+git clone https://github.com/harrikhan20/react-hooks-children.git
+ls
+cd react-hooks-children
+code .
+npm start
+ls
+cd react-hooks-components-basics-lab
+code .
+cd
+cd react-hooks-import-export-lab
+code .
+cd react-hooks-lists-and-keys-lab
+code .
+ls
+npm start
+npm run
+npm start
+npm run
+npm test
+learn
+npm start
+learn
+ls
+cd react-hooks-component-props-mini-project
+npm start

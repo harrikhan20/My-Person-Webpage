@@ -1,0 +1,12 @@
+[2021-11-23 17:32:33.691] [exthost] [info] Extension host with pid 2005 started
+[2021-11-23 17:32:33.733] [exthost] [info] Lock '/home/harriskhan/.vscode-server/data/User/workspaceStorage/1840cea4e2cf60db17170ea7bab32a1e/vscode.lock': Lock acquired.
+[2021-11-23 17:32:33.755] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+[2021-11-23 17:32:33.810] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-11-23 17:32:33.814] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-11-23 17:32:33.872] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2021-11-23 17:32:34.889] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-11-23 17:32:35.318] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-23 17:32:35.349] [exthost] [info] Eager extensions activated
+[2021-11-23 17:38:19.835] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-11-23 17:38:19.836] [exthost] [info] Lock '/home/harriskhan/.vscode-server/data/User/workspaceStorage/1840cea4e2cf60db17170ea7bab32a1e/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2021-11-23 17:38:20.895] [exthost] [info] Extension host with pid 2005 exiting with code 0
