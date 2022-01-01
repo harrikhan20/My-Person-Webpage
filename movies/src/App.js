@@ -9,13 +9,18 @@ import {
 import ReviewsList from './components/ReviewsList';
 import Review from './components/Review';
 import NewReviewForm from './components/NewReviewForm';
+import EditReviewForm from './components/EditReviwForm';
 import Navbar from './components/Navbar';
+import { useHistory } from 'react-router-dom';
+
 
 const headers = {'Content-Type': 'application/json', 'Accepts': 'application/json'}
 
 function App() {
 
   const [reviews, setReviews] = useState([])
+
+  const history = useHistory()
 
 useEffect(() => {
 fetch('http://localhost:3000/reviews')
@@ -34,9 +39,26 @@ function addReview(newReview) {
   .then(data => {
     console.log(data)
     setReviews([...reviews, data])
+    history.push('/')
   })
   
 }
+
+function editReview(editedReview) {
+  
+  fetch(`http://localhost:3000/reviews/${editedReview.id}`, {
+    method: 'PATCH',
+    headers,
+    body: JSON.stringify(editedReview)
+  })
+  .then(res => res.json())
+  .then(data => {
+    console.log(data)
+    setReviews(reviews.map(review => data.id === review.id ? data : review))
+    history.push('/')
+  })
+}
+
 
   return(
     <div className="App">
@@ -46,11 +68,11 @@ function addReview(newReview) {
       <h3>Get All Your Movie Needs Here!!</h3>
 
 
-      <Router>
+      
 
-        <Navbar />
+      <Navbar />
 
-        <Switch>
+       <Switch>
 
 
           <Route exact path="/">
@@ -66,11 +88,11 @@ function addReview(newReview) {
           </Route>
 
 
-          
-
-
-        </Switch>
-      </Router>
+          <Route exact path="/reviews/:id/edit">
+            <EditReviewForm reviews={reviews} editReview={editReview} />
+         </Route>
+      </Switch>
+      
 
 
 

@@ -1,0 +1,57 @@
+Validating found git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/harriskhan/react-hooks-import-export-lab
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/harriskhan/react-hooks-import-export-lab/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :src/components/Home.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-import-export-lab/src/components/Home.js
+> git cat-file -s db32d2511dcdb3eae98aadac2405d9989ea209bd
+> git show --textconv :src/components/App.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-import-export-lab/src/components/App.js
+> git cat-file -s bde336aa9598c9e6ab9a5267f383b7bfa09deb98
+> git show --textconv :src/components/About.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-import-export-lab/src/components/About.js
+> git cat-file -s c744ef14aa3fbf0765a8a648ed7a3e217fb90038
+> git show --textconv :src/components/App.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-import-export-lab/src/components/App.js
+> git cat-file -s bde336aa9598c9e6ab9a5267f383b7bfa09deb98
+> git show --textconv :src/components/Home.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-import-export-lab/src/components/Home.js
+> git cat-file -s db32d2511dcdb3eae98aadac2405d9989ea209bd
+> git show --textconv :src/data/user.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-import-export-lab/src/data/user.js
+> git cat-file -s e1bdeb403bd15e4c9b2ccb561aeb6aa54702240d
+> git show --textconv :src/components/About.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-import-export-lab/src/components/About.js
+> git cat-file -s c744ef14aa3fbf0765a8a648ed7a3e217fb90038
+> git show --textconv :src/components/App.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-import-export-lab/src/components/App.js
+> git cat-file -s bde336aa9598c9e6ab9a5267f383b7bfa09deb98
+> git show --textconv :src/components/NavBar.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-import-export-lab/src/components/NavBar.js
+> git cat-file -s e72396f37bbab1f7ab18f54fb5e6c5ae2a94482f
+> git show --textconv :src/data/user.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-import-export-lab/src/data/user.js
+> git cat-file -s e1bdeb403bd15e4c9b2ccb561aeb6aa54702240d
+> git show --textconv :src/components/About.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-import-export-lab/src/components/About.js
+> git cat-file -s c744ef14aa3fbf0765a8a648ed7a3e217fb90038
+> git show --textconv :src/components/Home.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-import-export-lab/src/components/Home.js
+> git cat-file -s db32d2511dcdb3eae98aadac2405d9989ea209bd
+> git show --textconv :src/data/user.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-import-export-lab/src/data/user.js
+> git cat-file -s e1bdeb403bd15e4c9b2ccb561aeb6aa54702240d
+> git show --textconv :src/components/NavBar.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-import-export-lab/src/components/NavBar.js
+> git cat-file -s e72396f37bbab1f7ab18f54fb5e6c5ae2a94482f
+> git show --textconv :src/components/Home.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-import-export-lab/src/components/Home.js
+> git cat-file -s db32d2511dcdb3eae98aadac2405d9989ea209bd

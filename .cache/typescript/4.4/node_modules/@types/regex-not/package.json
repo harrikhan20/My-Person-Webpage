@@ -1,0 +1,25 @@
+{
+    "name": "@types/regex-not",
+    "version": "1.0.0",
+    "description": "TypeScript definitions for regex-not",
+    "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/regex-not",
+    "license": "MIT",
+    "contributors": [
+        {
+            "name": "BendingBender",
+            "url": "https://github.com/bendingbender",
+            "githubUsername": "bendingbender"
+        }
+    ],
+    "main": "",
+    "types": "index.d.ts",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+        "directory": "types/regex-not"
+    },
+    "scripts": {},
+    "dependencies": {},
+    "typesPublisherContentHash": "9ab10ee571b25850e829cc9910af305a18a63b1c182a3fadefe138965932a6dd",
+    "typeScriptVersion": "3.7"
+}

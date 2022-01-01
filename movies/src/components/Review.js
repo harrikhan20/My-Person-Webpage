@@ -1,10 +1,11 @@
 import React from "react"
-import { useParams, Redirect } from 'react-router-dom'
+import { useParams, Redirect, useHistory } from 'react-router-dom'
 
 
 function Review({reviews}) {
 
 const params = useParams()
+const history = useHistory()
 
 console.log(params)
 
@@ -18,6 +19,9 @@ console.log(params)
             <h3>{foundReview.movie}</h3>
             <p>{foundReview.rating} stars</p>
             <p>{foundReview.content}</p>
+
+
+            <button onClick={() => history.push(`/reviews/${foundReview.id}/edit`)}>Edit</button>
             
 
         </div>

@@ -1,0 +1,50 @@
+Validating found git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/harriskhan/react-hooks-import-export
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/harriskhan/react-hooks-import-export/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :src/Hogwarts.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-import-export/src/Hogwarts.js
+> git cat-file -s 18d644c1a22c7e5cb585d39e06f106113a32806c
+> git check-ignore -v -z --stdin
+> git show --textconv :src/houses/Gryffindor.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-import-export/src/houses/Gryffindor.js
+> git cat-file -s dedfcd5967a3c50311a0df99a78e8f298844ceae
+> git show --textconv :src/houses/Hufflepuff.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-import-export/src/houses/Hufflepuff.js
+> git cat-file -s 72102cc89ed282f460f78137e7891c9cf0c88a1c
+> git show --textconv :src/houses/whoseHouse.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-import-export/src/houses/whoseHouse.js
+> git cat-file -s dd4fe1b08308fafd9a5df8a8f8c3cd322158c24e
+> git show --textconv :src/houses/Gryffindor.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-import-export/src/houses/Gryffindor.js
+> git cat-file -s dedfcd5967a3c50311a0df99a78e8f298844ceae
+> git show --textconv :src/houses/Hufflepuff.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-import-export/src/houses/Hufflepuff.js
+> git cat-file -s 72102cc89ed282f460f78137e7891c9cf0c88a1c
+> git show --textconv :src/houses/whoseHouse.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-import-export/src/houses/whoseHouse.js
+> git cat-file -s dd4fe1b08308fafd9a5df8a8f8c3cd322158c24e
+> git show --textconv :src/houses/Gryffindor.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-import-export/src/houses/Gryffindor.js
+> git cat-file -s dedfcd5967a3c50311a0df99a78e8f298844ceae
+> git show --textconv :src/index.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-import-export/src/index.js
+> git cat-file -s 146a50a280532c545f82569ccbcb4eec7e12de39
+> git show --textconv :src/Hogwarts.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-import-export/src/Hogwarts.js
+> git cat-file -s 18d644c1a22c7e5cb585d39e06f106113a32806c
+> git show --textconv :src/index.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-import-export/src/index.js
+> git cat-file -s 146a50a280532c545f82569ccbcb4eec7e12de39
+> git show --textconv :src/Hogwarts.js
+> git ls-files --stage -- /home/harriskhan/react-hooks-import-export/src/Hogwarts.js
+> git cat-file -s 18d644c1a22c7e5cb585d39e06f106113a32806c
